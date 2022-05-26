@@ -1,4 +1,4 @@
-# Bristo-Air-Quality Data Modelling
+# Bristol-Air-Quality Data Modelling
 
 # Measuring Air Quality Data Description. 
 Levels of various air borne pollutants such as Nitrogen Monoxide (NO), Nitrogen Dioxide (NO2) and particulate matter (also called particle pollution) are all major contributors to the measure of overall air quality.
