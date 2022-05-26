@@ -1,0 +1,1 @@
+SELECT readingId, datetime, location, MAX(nox) FROM readings r, stations s WHERE YEAR(r.datetime) = 2019 ORDER BY MAX(nox) DESC limit 1;
